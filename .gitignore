@@ -1,0 +1,10 @@
+manu_env
+__pycache__/
+media/PREDICTED IMAGES
+media/WEIGHTS
+media/RAW IMAGES
+manukamlesh.py
+src/camFile/persist.json
+persist.json
+.env
+dist
